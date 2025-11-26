@@ -1,7 +1,5 @@
 # Cargo48
 
-![Cargo48 Logo](https://static.getmocha.com/og.png) <!-- Você pode substituir esta imagem pelo seu logo real, se tiver um. -->
-
 Antecipação de recebíveis de frete em até 48 horas. Liquidez para motoristas, prazo para embarcadores.
 
 ## Sobre o Projeto
